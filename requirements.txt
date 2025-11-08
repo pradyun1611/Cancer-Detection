@@ -1,4 +1,4 @@
 streamlit
-tensorflow
+tensorflow # tensorflow-macos for macos
 Pillow
 numpy
